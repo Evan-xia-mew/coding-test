@@ -5,3 +5,4 @@
 #OpenCV-python: 4.1.2   
 #Matplotlib:3.2.0rcl  
 
+#packages resource：https://www.lfd.uci.edu/~gohlke/pythonlibs/     
